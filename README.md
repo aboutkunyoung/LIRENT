@@ -182,10 +182,10 @@ LIRENT_BACKEND/
 ```
 
 1. ERD  
-    ![image](/uploads/ac672db401be3b7a44319c5957d58218/ER-Diagram.PNG)
+   ![ER-Diagram](https://github.com/user-attachments/assets/0aa70c4d-84e4-46fc-87c1-972b7ea0c13f)
 
-2. Class Diagram  
-    ![image](/uploads/6ed5ac4463bfced90d465d0fec0f2f2e/Class-Diagram.png)
+2. Class Diagram
+   ![Class-Diagram](https://github.com/user-attachments/assets/64dd334e-f63c-451a-9278-2ba1731079b5)
 
 
 
